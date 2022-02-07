@@ -16,7 +16,7 @@ Open Install.bat
 ```
 python main.py
 ```
-## or
+##  or
 
 ```
 node index.js
