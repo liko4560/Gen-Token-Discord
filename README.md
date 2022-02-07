@@ -8,7 +8,7 @@ Gennarator Token Discord Verified Email and Phone Number
 ## How to Install
 
 ```
-Click Install.bat and waiting!
+Open Install.bat
 ```
 
 ## How to Run
