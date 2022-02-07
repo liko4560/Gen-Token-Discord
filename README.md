@@ -23,6 +23,3 @@ node index.js
 ```
 
 # Thank you for using my tools
-> You can use it for free!
-
-# **Enjoin with your Token :)**
